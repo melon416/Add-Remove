@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.wrapper {
+  width: 100%;
+}
+
+.wrapper-button {
+  display: flex;
+}
+
+.wrapper-body {
+  width: 100%;
+}
+
+.wrapper .item {
+  display: flex;
+  float: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  border: 1px solid black;
+}
